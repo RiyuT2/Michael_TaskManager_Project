@@ -61,7 +61,7 @@
     </form>
 
     <a href="{{ route('tasks.index') }}" class="back-button">
-        ← Back to Tasks
+    ← Back to Tasks
     </a>
 
 </div>
