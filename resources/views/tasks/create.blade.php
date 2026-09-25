@@ -9,7 +9,7 @@
 
 <div class="form-container">
 
-    <h1>Add New Task</h1>
+    <h1>CREATE TASK</h1>
 
     @if($errors->any())
         <div class="error-message">
