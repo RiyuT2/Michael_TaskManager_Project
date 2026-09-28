@@ -6,6 +6,7 @@ A simple Laravel-based Personal Task Manager for managing tasks.
 
 **Project Code:** WST21-PM-2026-SF  
 **Student Name:** Michael Rae D. Yu 
+
 **Course & Year:** BSIT 09- 2st Year  
 **Database Used:** MySQL
 
