@@ -45,8 +45,16 @@ This project uses MySQL through XAMPP/phpMyAdmin.
 
 
 ## Add Task
-First Step 
+Before:
 <img width="1900" height="948" alt="Screenshot 2026-09-28 220915" src="https://github.com/user-attachments/assets/3056ccc7-a89a-47b6-a849-25ce2ae11e91" />
+
+During:
+<img width="1892" height="882" alt="Screenshot 2026-09-28 225601" src="https://github.com/user-attachments/assets/e3f2177b-0ab1-4bca-b252-e3eca4448048" />
+
+After:
+<img width="1906" height="650" alt="image" src="https://github.com/user-attachments/assets/d9bb920a-d6cd-46e7-9ff7-1ccf006015e0" />
+
+
 
 ## View Tasks / Edit Tasks
 Second Step:
