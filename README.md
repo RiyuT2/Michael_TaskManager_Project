@@ -53,10 +53,13 @@ Second Step:
 The View Task page shows all task details, while Edit Task allows users to update the task name, description, status, and due date. It makes tasks easy to manage in one place.
 
 <img width="1892" height="762" alt="image" src="https://github.com/user-attachments/assets/53b0ddde-851f-40e3-979b-88a4026d8648" />
-<img width="1892" height="762" alt="Screenshot 2026-09-28 221250" src="https://github.com/user-attachments/assets/0f24afd4-f3c9-4f6c-9b7e-e31ed3562c0d" />
+<img width="1851" height="972" alt="Screenshot 2026-09-28 222630" src="https://github.com/user-attachments/assets/fc8865a9-e74c-4e4f-a64d-53d3ebdd1dd5" />
+
+
 
  ## Delete Task
  The Delete Task function allows users to remove a task they no longer need from the task list.
+ 
  Before:
 <img width="1710" height="618" alt="Screenshot 2026-09-28 221740" src="https://github.com/user-attachments/assets/29da1115-a35e-4fca-ba89-1829612e87ea" />
 
@@ -70,6 +73,6 @@ Before:
 <img width="1710" height="618" alt="Screenshot 2026-09-28 221740" src="https://github.com/user-attachments/assets/3cbf3b6f-af33-493e-9f5b-5950df413950" />
 
 After:
-<img width="1887" height="728" alt="Screenshot 2026-09-28 221753" src="https://github.com/user-attachments/assets/ecf27346-43b0-43fa-872b-e27cb460e3eb" />
+<img width="1908" height="617" alt="image" src="https://github.com/user-attachments/assets/d4e34f5b-c777-44e7-a95f-7c817a2787b0" />
 
 
